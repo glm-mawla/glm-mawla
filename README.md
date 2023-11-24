@@ -1,7 +1,7 @@
 Experienced Android Mobile Application Developer with a demonstrated history of working in the information technology and services industry to deliver high-quality, secure, and scalable mobile applications for Android platforms. I have over 10 years of experience in developing and managing mobile apps for various domains, such as FinTech, Banking, ride-sharing, e-commerce, ERP, food ordering, GPS-tracking, and delivery.
 
 ### Languages
-
+![Kotlin](https://img.shields.io/badge/kotlin-073026?logo=kotlin&color=F5F6CE)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
