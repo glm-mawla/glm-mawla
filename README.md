@@ -24,3 +24,6 @@ I have a strong knowledge of Java and Kotlin languages, and I use MVP and MVVM d
 I am passionate about learning new technologies and applying them to solve real-world problems. I am also a scrum and agile enthusiast and practitioner, and I enjoy collaborating with cross-functional teams to transform business requirements into mobile solutions.
 
 ##
+<a href="https://github.com/glm-mawla/bottom-Action-Dialog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glm-mawla&hide=javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
