@@ -17,7 +17,8 @@ Hello, I'm Md. Golam Mawla Newton <a href="https://linkedin.com/in/golammawla"><
 ![CLEAN](https://img.shields.io/badge/CLEAN_ARCHITECTURE-073026?logo=CLEAN_ARCHITECTURE)
 ![rxJAVA](https://img.shields.io/badge/rxJava-073026?logo=rxJava)
 ![CoRoutine](https://img.shields.io/badge/coRoutine-073026?color=1C1C1C)
-
+![Hilt](https://img.shields.io/badge/Hilt-073026?color=1C1C1C)
+<span><img src="https://insert-koin.io/img/koin_new_logo.png" height=18 width=18/></span>
 
 I have a strong knowledge of Java and Kotlin languages, and I use MVP and MVVM design patterns, Bio-metric authentication, Coroutines, RxJava, RxKotlin, Material design, and third-party libraries to create user-friendly and efficient app features. I also have expertise in gRPC and data encryption and decryption techniques to ensure data security and integrity. 
 
