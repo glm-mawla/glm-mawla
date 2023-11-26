@@ -1,4 +1,4 @@
-Hello, I'm Md. Golam Mawla Newton <a href="https://linkedin.com/in/golammawla"><img src="https://img.shields.io/badge/linkedin-073026?logo=linkedin&color=1C1C1C&logoColor=white"/></a>
+Hello, I'm Md. Golam Mawla Newton <a href="https://linkedin.com/in/golammawla"><img src="https://img.shields.io/badge/linkedin-073026?logo=linkedin&color=2E81F7&logoColor=white"/></a>
 
 10+ years of experience in Android Mobile Application development with a demonstrated history of working in the information technology and services industry to deliver high-quality, secure, and scalable mobile applications for Android platforms. Developing and managing mobile apps for various domains, such as FinTech, Banking, ride-sharing, e-commerce, ERP, Food Ordering, GPS-tracking, and Delivery Management apps.
 
