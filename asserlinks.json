@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sprial.emical",
+    "sha256_cert_fingerprints":
+    ["E7:BF:66:04:E5:54:DA:2F:8E:96:31:B6:78:86:1D:28:32:4A:F4:DF:78:51:D0:AD:9F:06:99:A7:7B:83:43:92"]
+  }
+}]
