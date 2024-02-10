@@ -30,3 +30,7 @@ I am passionate about learning new technologies and applying them to solve real-
 <a href="https://github.com/glm-mawla/bottom-Action-Dialog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glm-mawla&hide=javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+##
+Medium 
+<a href="https://medium.com/@glm.mawla/kotlin-coroutine-generic-base-method-for-retrofit-api-call-097d393130b9" />
