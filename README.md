@@ -27,7 +27,7 @@ I have a strong knowledge of Java and Kotlin languages, and I use MVP and MVVM d
 I am passionate about learning new technologies and applying them to solve real-world problems. I am also a scrum and agile enthusiast and practitioner, and I enjoy collaborating with cross-functional teams to transform business requirements into mobile solutions.
 
 ## 
-<a Medium Blog href="https://medium.com/@glm.mawla/kotlin-coroutine-generic-base-method-for-retrofit-api-call-097d393130b9" />
+<a href="https://medium.com/@glm.mawla/kotlin-coroutine-generic-base-method-for-retrofit-api-call-097d393130b9"><img src="https://img.shields.io/badge/medium-073026?logo=medium&color=2E81F7&logoColor=white"/></a>
 
 ##
 <a href="https://github.com/glm-mawla/bottom-Action-Dialog">
