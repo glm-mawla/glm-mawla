@@ -6,6 +6,7 @@ Hello, I'm Md. Golam Mawla Newton <a href="https://linkedin.com/in/golammawla"><
 ![Kotlin](https://img.shields.io/badge/Kotlin-073026?logo=kotlin&color=1C1C1C)
 ![Java](https://img.shields.io/badge/-JAVA-000?&logo=Java&logoColor=007396)
 ![Android](https://img.shields.io/badge/Android-073026?logo=Android&color=1C1C1C)
+![Flutter](https://img.shields.io/badge/Flutter-073026?color=1C1C1C)
 ![iOS](https://img.shields.io/badge/iOS-073026?color=1C1C1C)
 ![KM](https://img.shields.io/badge/Kotlin_Multiplatform-073026?logo=Kotlin&color=1C1C1C)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
