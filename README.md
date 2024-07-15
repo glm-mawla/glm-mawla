@@ -23,7 +23,7 @@ Hello, I'm Md. Golam Mawla, nickname Newton <a href="https://linkedin.com/in/gol
 
 <!-- <img src="koin.png"/> -->
 
-I have a strong knowledge of Java and Kotlin languages, and I use <b>MVP</b> and <b>MVVM</b> design patterns, Bio-metric authentication, <b>Coroutines, RxJava, RxKotlin, Material design</b>, and third-party libraries to create user-friendly and efficient app features. I also have expertise in gRPC and data encryption and decryption techniques to ensure data security and integrity. 
+I have a strong knowledge of Java and Kotlin languages, and I have experience with <b>MVP</b> and <b>MVVM</b> design patterns, Bio-metric authentication, <b>Coroutines, RxJava, RxKotlin, Material design</b>, and third-party libraries to create user-friendly and efficient app features. I also have expertise in gRPC and data encryption and decryption techniques to ensure data security and integrity. 
 
 I am passionate about learning new technologies and applying them to solve real-world problems. I am also a <b>scrum</b> and <b>agile</b> enthusiast and practitioner, and I enjoy collaborating with cross-functional teams to transform business requirements into mobile solutions.
 
